@@ -68,7 +68,7 @@ const SecurityServices: React.FC = () => {
                     </h2>
                     <div className="w-24 h-1.5 bg-[#e11d48] mx-auto mb-8"></div>
                     <p className="text-gray-400 max-w-2xl mx-auto font-medium leading-relaxed">
-                        Homeland Security (Pvt) Ltd delivers professional, reliable, and customized security services
+                        Al-Aman Security (Pvt) Ltd delivers professional, reliable, and customized security services
                         designed to protect people, property, and assets with efficiency and confidence.
                     </p>
                 </div>
@@ -102,8 +102,8 @@ const SecurityServices: React.FC = () => {
                             </p>
 
                             <button className={`inline-flex items-center gap-2 text-xs font-black uppercase tracking-widest transition-all ${service.highlight
-                                    ? 'text-white border-b-2 border-white pb-1'
-                                    : 'text-[#e11d48] hover:text-white'
+                                ? 'text-white border-b-2 border-white pb-1'
+                                : 'text-[#e11d48] hover:text-white'
                                 }`}>
                                 Read More
                                 <ArrowUpRight size={16} />

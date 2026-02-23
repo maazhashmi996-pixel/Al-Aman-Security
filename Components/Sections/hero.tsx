@@ -23,21 +23,21 @@ const slides: SlideContent[] = [
         title: "Professional Security Guards",
         subtitle: "Complete Reliability",
         description: "Highly trained and disciplined security guards ensuring round-the-clock protection for your property and assets.",
-        image: "https://images.unsplash.com/photo-1582139329536-e7284fece509?auto=format&fit=crop&w=1920&q=80",
+        image: "pics/a.jpeg",
         icon: <ShieldCheck size={32} />
     },
     {
         title: "Elite Executive Protection",
         subtitle: "VVIP Escort Services",
         description: "Specialized close protection services for high-profile individuals, executives, and public figures with maximum discretion.",
-        image: "https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?auto=format&fit=crop&w=1920&q=80",
+        image: "pics/b.JPG",
         icon: <Lock size={32} />
     },
     {
         title: "Advanced Surveillance",
         subtitle: "24/7 Monitoring",
         description: "Cutting-edge CCTV monitoring and electronic security solutions to safeguard your premises from every angle.",
-        image: "https://images.unsplash.com/photo-1557597774-9d2739f85a76?auto=format&fit=crop&w=1920&q=80",
+        image: "pics/d.JPG",
         icon: <Eye size={32} />
     }
 ];
