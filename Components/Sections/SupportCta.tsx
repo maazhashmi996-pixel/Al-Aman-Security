@@ -11,7 +11,7 @@ export default function SecuritySupportCTA() {
             <div
                 className="absolute inset-0 z-0"
                 style={{
-                    backgroundImage: `url('/image_c46848.jpg')`, // Apni image ka sahi path dein
+                    backgroundImage: `url('Pics/Service 1.jpg')`, // Apni image ka sahi path dein
                     backgroundSize: 'cover',
                     backgroundPosition: 'center'
                 }}

@@ -61,7 +61,7 @@ export default function ClientTestimonials() {
                             className="relative rounded-[3.5rem] overflow-hidden border-[12px] border-white shadow-2xl z-10"
                         >
                             {/* Aapki image_c694b4.jpg yahan display hogi */}
-                            <img src="pics/00000.jpeg" alt="HLS Tactical Team" className="w-full h-auto transform group-hover:scale-105 transition-transform duration-700" />
+                            <img src="Pics/00000.jpeg" alt="HLS Tactical Team" className="w-full h-auto transform group-hover:scale-105 transition-transform duration-700" />
                         </motion.div>
 
                         {/* Feature Badges Overlay */}

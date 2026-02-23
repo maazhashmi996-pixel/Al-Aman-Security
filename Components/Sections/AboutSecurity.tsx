@@ -74,7 +74,7 @@ const AboutSecurity: React.FC = () => {
                     <div className="w-full lg:w-2/5 relative">
                         <div className="relative z-10 rounded-sm overflow-hidden shadow-2xl">
                             <img
-                                src="pics/Service 2.jpg"
+                                src="Pics/Service 2.jpg"
                                 alt="Security Guard"
                                 className="w-full h-full object-cover min-h-[500px]"
                             />
