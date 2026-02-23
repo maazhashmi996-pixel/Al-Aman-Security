@@ -171,7 +171,7 @@ export default function AlArmanSection() {
                         <div className="absolute -inset-4 bg-slate-100 rounded-[4rem] rotate-3 group-hover:rotate-0 transition-transform duration-700" />
                         <div className="relative h-[550px] w-full rounded-[3.5rem] overflow-hidden shadow-[0_20px_50px_rgba(0,0,0,0.1)] border-[12px] border-white">
                             <img
-                                src="pics/a.jpeg"
+                                src="Pics/a.jpeg"
                                 alt="Al-Arman Security Professional"
                                 className="w-full h-full object-cover grayscale-[30%] group-hover:grayscale-0 transition-all duration-1000 scale-110 group-hover:scale-100"
                             />
