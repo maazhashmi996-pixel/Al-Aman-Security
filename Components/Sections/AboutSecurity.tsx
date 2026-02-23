@@ -40,7 +40,7 @@ const AboutSecurity: React.FC = () => {
                                 Protection To Our Clients
                             </h2>
                             <p className="text-gray-500 text-lg leading-relaxed font-medium max-w-2xl">
-                                Homeland Security (Pvt) Ltd is a trusted private security company delivering reliable,
+                                Al-Aman Security (Pvt) Ltd is a trusted private security company delivering reliable,
                                 professional, and customized protection services. With experienced personnel, modern
                                 systems, and a client-focused approach, we ensure safety, confidence, and peace of mind at every level.
                             </p>
@@ -74,7 +74,7 @@ const AboutSecurity: React.FC = () => {
                     <div className="w-full lg:w-2/5 relative">
                         <div className="relative z-10 rounded-sm overflow-hidden shadow-2xl">
                             <img
-                                src="https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?auto=format&fit=crop&w=800&q=80"
+                                src="pics/Service 2.jpg"
                                 alt="Security Guard"
                                 className="w-full h-full object-cover min-h-[500px]"
                             />
